@@ -3,9 +3,10 @@ body {
     background: linear-gradient(#cb15eb 0%, #f7059a 100%);
 }
 
+
 .profile {
     width: 175px;
-
+    padding-top:200px;
     border-radius: 50%;
 }
 
